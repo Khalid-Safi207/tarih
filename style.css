@@ -15,9 +15,12 @@ body{
     font-weight: bold;
 }
 .text-soru::before{
-    content: "?";
-    color: red;
+  content: "?";
+    color: white;
     font-size: 21px;
+    padding: 0px 10px;
+    background-color: #7d7d7d;
+    margin-right: 10px;
 }
 .s-container{
     width: 50%;
