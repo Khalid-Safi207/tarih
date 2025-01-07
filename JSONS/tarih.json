@@ -134,6 +134,71 @@
         {
           "topic": "Genel Tarih",
           "difficulty": "Orta",
+          "question": "Çin’in yarı sömürge haline gelmesine sebep olan savaş nedir?",
+          "options": {
+            "A": "AFYON SAVAŞLARI",
+            "B": "ÇİN-JAPONYA SAVAŞI",
+            "C": "TAIPEI SAVAŞI",
+            "D": "TİBET SAVAŞI",
+            "E": "ÇİN-HINDİSTAN SAVAŞI"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "topic": "Genel Tarih",
+          "difficulty": "Orta",
+          "question": "ABD’nin II. Dünya savaşına girmesine yol açan gelişme nedir?",
+          "options": {
+            "A": "PEARL HARBOUR BASKINI",
+            "B": "İNGİLTERE’YE YAPILAN SALDIRI",
+            "C": "JAPONYA’NIN HİNDİSTAN’I İŞGALİ",
+            "D": "SOVYETLER’İN POLONYA’YI İŞGALİ",
+            "E": "İTALYA’NIN YUNANİSTAN’A SALDIRISI"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "topic": "Genel Tarih",
+          "difficulty": "Orta",
+          "question": "II. Dünya savaşından sonra Türkiye’nin fiilen katıldığı ilk savaş nedir?",
+          "options": {
+            "A": "KORE SAVAŞI",
+            "B": "VİETNAM SAVAŞI",
+            "C": "KUZEY KORE SAVAŞI",
+            "D": "LİBYA SAVAŞI",
+            "E": "SÜVEYŞ KANALI KRİZİ"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "topic": "Genel Tarih",
+          "difficulty": "Orta",
+          "question": "Ping-Pong diplomasisi hangi ülkeler arasında gerçekleşmiştir?",
+          "options": {
+            "A": "ABD-ÇİN",
+            "B": "RUSYA-ÇİN",
+            "C": "JAPONYA-ABD",
+            "D": "ALMANYA-ÇİN",
+            "E": "TÜRKİYE-ÇİN"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "topic": "Genel Tarih",
+          "difficulty": "Orta",
+          "question": "II. Dünya savaşından sonra ABD’nin Sovyetler Birliği’ne karşı uyguladığı dış politika nedir?",
+          "options": {
+            "A": "İÇİM HATTI POLİTİKASI",
+            "B": "KIRMIZI ÇİZGİ POLİTİKASI",
+            "C": "ÇEVRELEME POLİTİKASI",
+            "D": "YATTIŞTIRMA POLİTİKASI",
+            "E": "SOĞUK SAVAŞ POLİTİKASI"
+          },
+          "correct_answer": "C"
+        }, 
+        {
+          "topic": "Genel Tarih",
+          "difficulty": "Orta",
           "question": "Son Osmanlı Mebusan Meclisinde M. Kemal nereden milletvekili seçilmiştir?",
           "options": {
             "A": "ERZURUM",
@@ -260,6 +325,488 @@
             "E": "Altın Hat"
           },
           "correct_answer": "A"
-        }
+        },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Çin’in yarı sömürge haline gelmesine sebep olan savaş nedir?",
+              "options": {
+                "A": "AFYON SAVAŞLARI",
+                "B": "ÇİN-JAPONYA SAVAŞI",
+                "C": "TAIPEI SAVAŞI",
+                "D": "TİBET SAVAŞI",
+                "E": "ÇİN-HINDİSTAN SAVAŞI"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "ABD’nin II. Dünya savaşına girmesine yol açan gelişme nedir?",
+              "options": {
+                "A": "PEARL HARBOUR BASKINI",
+                "B": "İNGİLTERE’YE YAPILAN SALDIRI",
+                "C": "JAPONYA’NIN HİNDİSTAN’I İŞGALİ",
+                "D": "SOVYETLER’İN POLONYA’YI İŞGALİ",
+                "E": "İTALYA’NIN YUNANİSTAN’A SALDIRISI"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "II. Dünya savaşından sonra Türkiye’nin fiilen katıldığı ilk savaş nedir?",
+              "options": {
+                "A": "KORE SAVAŞI",
+                "B": "VİETNAM SAVAŞI",
+                "C": "KUZEY KORE SAVAŞI",
+                "D": "LİBYA SAVAŞI",
+                "E": "SÜVEYŞ KANALI KRİZİ"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Ping-Pong diplomasisi hangi ülkeler arasında gerçekleşmiştir?",
+              "options": {
+                "A": "ABD-ÇİN",
+                "B": "RUSYA-ÇİN",
+                "C": "JAPONYA-ABD",
+                "D": "ALMANYA-ÇİN",
+                "E": "TÜRKİYE-ÇİN"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "II. Dünya savaşından sonra ABD’nin Sovyetler Birliği’ne karşı uyguladığı dış politika nedir?",
+              "options": {
+                "A": "İÇİM HATTI POLİTİKASI",
+                "B": "KIRMIZI ÇİZGİ POLİTİKASI",
+                "C": "ÇEVRELEME POLİTİKASI",
+                "D": "YATTIŞTIRMA POLİTİKASI",
+                "E": "SOĞUK SAVAŞ POLİTİKASI"
+              },
+              "correct_answer": "C"
+            },
+
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Hindistan bağımsızlık mücadelesinin siyasi ruhani lideri kimdir?",
+              "options": {
+                "A": "MAHATMA GANDİ",
+                "B": "JAWAHARLAL NEHRU",
+                "C": "SUKARNO",
+                "D": "LAL BAHADUR SHASTRI",
+                "E": "INDIRA GANDHI"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Hayat Sahası terimi hangi ülkeye aittir?",
+              "options": {
+                "A": "ALMANYA",
+                "B": "İTALYA",
+                "C": "JAPONYA",
+                "D": "RUSYA",
+                "E": "İNGİLTERE"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Bizim Deniz terimi hangi ülkeye aittir?",
+              "options": {
+                "A": "İTALYA",
+                "B": "ALMANYA",
+                "C": "FRANSA",
+                "D": "YUNANİSTAN",
+                "E": "TÜRKİYE"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Soğuk Savaşın ilk krizi nedir?",
+              "options": {
+                "A": "BERLİN BUHRANI",
+                "B": "KÜBA KRİZİ",
+                "C": "KORE SAVAŞI",
+                "D": "VIETNAM SAVAŞI",
+                "E": "YUNANİSTAN İSYANI"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "BM Teşkilatı hangi konferans neticesinde kuruldu?",
+              "options": {
+                "A": "SAN FRANCİSCO KONFERANSI",
+                "B": "YALTA KONFERANSI",
+                "C": "TEHERAN KONFERANSI",
+                "D": "POTSDAM KONFERANSI",
+                "E": "PARİS KONFERANSI"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Fransa’yı Alman işgalinden kurtaran harekât nedir?",
+              "options": {
+                "A": "NORMANDİYA ÇIKARMASI",
+                "B": "VIKING ÇIKARMASI",
+                "C": "D-DAY ÇIKARMASI",
+                "D": "OMAHA ÇIKARMASI",
+                "E": "CROSSROADS ÇIKARMASI"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Almanya’nın SSCB’yi işgal için başlattığı harekât nedir?",
+              "options": {
+                "A": "BARBAROSSA",
+                "B": "TİGER ÇIKARMASI",
+                "C": "OPERASYON SEELÖWE",
+                "D": "AUGUST ÇIKARMASI",
+                "E": "BURNING SWORD"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Yatıştırma Politikası hangi ülkeye aittir?",
+              "options": {
+                "A": "İNGİLTERE",
+                "B": "FRANSA",
+                "C": "ALMANYA",
+                "D": "RUSYA",
+                "E": "TÜRKİYE"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Fransa savunma hattı nedir?",
+              "options": {
+                "A": "MAGİNOT",
+                "B": "MAURICE",
+                "C": "LIMOGES",
+                "D": "PICKETT",
+                "E": "BOURGOGNE"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Almanların İngiltere karşı başlattığı hava harekâtı nedir?",
+              "options": {
+                "A": "KARTAL HÜCUMU",
+                "B": "BURÇ HÜCUMU",
+                "C": "OPERATION SEA LION",
+                "D": "OPERATION OVERLORD",
+                "E": "CROSSBOW"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Dörtlü Takrir kimlerden oluşur?",
+              "options": {
+                "A": "MUSTAFA KEMAL ATATÜRK, İSmet İNÖNÜ, CELAL BAYAR, ADNAN MENDERES",
+                "B": "CELAL BAYAR, ADNAN MENDERES, FUAT KÖPRÜLÜ, REFİK KORALTAN",
+                "C": "İSMET İNÖNÜ, KEMAL KIRCA, NECİP FAZIL KISAKÜREK, ENVER PAŞA",
+                "D": "MELİH ESKİÇER, CEVDET SÜMER, HALİL KÖPRÜLÜ, NURİ KÖPRÜLÜ",
+                "E": "ORHAN PAMUK, AHMET ARPAD, YAŞAR KEMAL, KEMAL BÜYÜKSOY"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Gönüllü olarak kendi nükleer silah deposunu kapatan ülke nedir?",
+              "options": {
+                "A": "HINDİSTAN",
+                "B": "KAZAKİSTAN",
+                "C": "JAPONYA",
+                "D": "GÜNEY AFRİKA",
+                "E": "ALMANYA"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Ermeni terör örgütünün adı nedir?",
+              "options": {
+                "A": "AŞIRILAR",
+                "B": "PKK",
+                "C": "ASALA",
+                "D": "TAK",
+                "E": "FETÖ"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Üç Tarz Siyaset eserini kaleme alan kimdir?",
+              "options": {
+                "A": "YUSUF AKÇURA",
+                "B": "AHMED ARİF",
+                "C": "KEMAL KIRCA",
+                "D": "MEHMET AKİF ERSOY",
+                "E": "AHMED BİRİNCİ"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Kadife Devrimi hangi ülkede yaşandı?",
+              "options": {
+                "A": "ROMANYA",
+                "B": "POLONYA",
+                "C": "ÇEKOSLOVAKYA",
+                "D": "HONG KONG",
+                "E": "BULGARİSTAN"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Dağlık Karabağ sorunu hangi iki ülke arasında yaşanmaktadır?",
+              "options": {
+                "A": "YUNANİSTAN-TÜRKİYE",
+                "B": "ERMENİSTAN-AZERBAYCAN",
+                "C": "RUSYA-UKRAYNA",
+                "D": "TÜRKİYE-İRAN",
+                "E": "FRANSA-ALMANYA"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Hindistan bağımsızlık mücadelesinin siyasi ruhani lideri kimdir?",
+              "options": {
+                "A": "MAHATMA GANDİ",
+                "B": "JAWAHARLAL NEHRU",
+                "C": "SUKARNO",
+                "D": "LAL BAHADUR SHASTRI",
+                "E": "INDIRA GANDHI"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Hayat Sahası terimi hangi ülkeye aittir?",
+              "options": {
+                "A": "ALMANYA",
+                "B": "İTALYA",
+                "C": "JAPONYA",
+                "D": "RUSYA",
+                "E": "İNGİLTERE"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Bizim Deniz terimi hangi ülkeye aittir?",
+              "options": {
+                "A": "İTALYA",
+                "B": "ALMANYA",
+                "C": "FRANSA",
+                "D": "YUNANİSTAN",
+                "E": "TÜRKİYE"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Soğuk Savaşın ilk krizi nedir?",
+              "options": {
+                "A": "BERLİN BUHRANI",
+                "B": "KÜBA KRİZİ",
+                "C": "KORE SAVAŞI",
+                "D": "VIETNAM SAVAŞI",
+                "E": "YUNANİSTAN İSYANI"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "BM Teşkilatı hangi konferans neticesinde kuruldu?",
+              "options": {
+                "A": "SAN FRANCİSCO KONFERANSI",
+                "B": "YALTA KONFERANSI",
+                "C": "TEHERAN KONFERANSI",
+                "D": "POTSDAM KONFERANSI",
+                "E": "PARİS KONFERANSI"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Fransa’yı Alman işgalinden kurtaran harekât nedir?",
+              "options": {
+                "A": "NORMANDİYA ÇIKARMASI",
+                "B": "VIKING ÇIKARMASI",
+                "C": "D-DAY ÇIKARMASI",
+                "D": "OMAHA ÇIKARMASI",
+                "E": "CROSSROADS ÇIKARMASI"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Almanya’nın SSCB’yi işgal için başlattığı harekât nedir?",
+              "options": {
+                "A": "BARBAROSSA",
+                "B": "TİGER ÇIKARMASI",
+                "C": "OPERASYON SEELÖWE",
+                "D": "AUGUST ÇIKARMASI",
+                "E": "BURNING SWORD"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Yatıştırma Politikası hangi ülkeye aittir?",
+              "options": {
+                "A": "İNGİLTERE",
+                "B": "FRANSA",
+                "C": "ALMANYA",
+                "D": "RUSYA",
+                "E": "TÜRKİYE"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Fransa savunma hattı nedir?",
+              "options": {
+                "A": "MAGİNOT",
+                "B": "MAURICE",
+                "C": "LIMOGES",
+                "D": "PICKETT",
+                "E": "BOURGOGNE"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Almanların İngiltere karşı başlattığı hava harekâtı nedir?",
+              "options": {
+                "A": "KARTAL HÜCUMU",
+                "B": "BURÇ HÜCUMU",
+                "C": "OPERATION SEA LION",
+                "D": "OPERATION OVERLORD",
+                "E": "CROSSBOW"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Dörtlü Takrir kimlerden oluşur?",
+              "options": {
+                "A": "MUSTAFA KEMAL ATATÜRK, İSmet İNÖNÜ, CELAL BAYAR, ADNAN MENDERES",
+                "B": "CELAL BAYAR, ADNAN MENDERES, FUAT KÖPRÜLÜ, REFİK KORALTAN",
+                "C": "İSMET İNÖNÜ, KEMAL KIRCA, NECİP FAZIL KISAKÜREK, ENVER PAŞA",
+                "D": "MELİH ESKİÇER, CEVDET SÜMER, HALİL KÖPRÜLÜ, NURİ KÖPRÜLÜ",
+                "E": "ORHAN PAMUK, AHMET ARPAD, YAŞAR KEMAL, KEMAL BÜYÜKSOY"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Gönüllü olarak kendi nükleer silah deposunu kapatan ülke nedir?",
+              "options": {
+                "A": "HINDİSTAN",
+                "B": "KAZAKİSTAN",
+                "C": "JAPONYA",
+                "D": "GÜNEY AFRİKA",
+                "E": "ALMANYA"
+              },
+              "correct_answer": "B"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Ermeni terör örgütünün adı nedir?",
+              "options": {
+                "A": "AŞIRILAR",
+                "B": "PKK",
+                "C": "ASALA",
+                "D": "TAK",
+                "E": "FETÖ"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Üç Tarz Siyaset eserini kaleme alan kimdir?",
+              "options": {
+                "A": "YUSUF AKÇURA",
+                "B": "AHMED ARİF",
+                "C": "KEMAL KIRCA",
+                "D": "MEHMET AKİF ERSOY",
+                "E": "AHMED BİRİNCİ"
+              },
+              "correct_answer": "A"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Kadife Devrimi hangi ülkede yaşandı?",
+              "options": {
+                "A": "ROMANYA",
+                "B": "POLONYA",
+                "C": "ÇEKOSLOVAKYA",
+                "D": "HONG KONG",
+                "E": "BULGARİSTAN"
+              },
+              "correct_answer": "C"
+            },
+            {
+              "topic": "Genel Tarih",
+              "difficulty": "Orta",
+              "question": "Dağlık Karabağ sorunu hangi iki ülke arasında yaşanmaktadır?",
+              "options": {
+                "A": "YUNANİSTAN-TÜRKİYE",
+                "B": "ERMENİSTAN-AZERBAYCAN",
+                "C": "RUSYA-UKRAYNA",
+                "D": "TÜRKİYE-İRAN",
+                "E": "FRANSA-ALMANYA"
+              },
+              "correct_answer": "B"
+            }
   ]
 }
