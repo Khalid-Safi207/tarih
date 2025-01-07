@@ -1,0 +1,265 @@
+{
+  "test_name": "Tarih Testi",
+  "questions": [
+    {
+      "topic": "Genel Tarih",
+      "difficulty": "Orta",
+      "question": "Son Osmanlı Mebusan Meclisinde M. Kemal nereden milletvekili seçilmiştir?",
+      "options": {
+        "A": "ERZURUM",
+        "B": "SİVAS",
+        "C": "ANKARA",
+        "D": "İSTANBUL",
+        "E": "İZMİR"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "topic": "Genel Tarih",
+      "difficulty": "Orta",
+      "question": "Galip Hoca ve Reşadı Sani lakaplarıyla bilinen, İş Bankası'nın ilk müdürü kimdir?",
+      "options": {
+        "A": "İSmet İnönü",
+        "B": "Celal Bayar",
+        "C": "Adnan Menderes",
+        "D": "Fuat Köprülü",
+        "E": "Ali Fuat Cebesoy"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Genel Tarih",
+      "difficulty": "Orta",
+      "question": "I. TBMM'nin imzaladığı ilk antlaşma nedir?",
+      "options": {
+        "A": "Gümrü",
+        "B": "Moskova",
+        "C": "Londra",
+        "D": "Mudanya",
+        "E": "Kars"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "topic": "Genel Tarih",
+      "difficulty": "Orta",
+      "question": "TBMM Hükümeti ilk elçiliğini nerede açmıştır?",
+      "options": {
+        "A": "MOSKOVA",
+        "B": "PARİS",
+        "C": "LONDRA",
+        "D": "NEW YORK",
+        "E": "BERLİN"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "topic": "Genel Tarih",
+      "difficulty": "Orta",
+      "question": "M. Kemal, 'Siz orada yalnızca düşmanı değil milletin makus talihini de yendiniz' sözünü hangi savaştan sonra söylemiştir?",
+      "options": {
+        "A": "KURTULUŞ SAVAŞI",
+        "B": "ÇANAKKALE SAVAŞI",
+        "C": "SACİDE SAVAŞI",
+        "D": "II. İNÖNÜ SAVAŞI",
+        "E": "MUDANYA"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "topic": "Genel Tarih",
+      "difficulty": "Orta",
+      "question": "Rusya I. Dünya Savaşı'ndan hangi antlaşma ile çekilmiştir?",
+      "options": {
+        "A": "BREST LITOWSK",
+        "B": "BREST LITOWSK",
+        "C": "PARİS",
+        "D": "BİLGİNİ",
+        "E": "KARS"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "topic": "Genel Tarih",
+      "difficulty": "Orta",
+      "question": "Milli Hokand hükümetine Rusya'nın son vermesi ile Türklerin başlattığı hareketin adı nedir?",
+      "options": {
+        "A": "İSTANBUL",
+        "B": "BASMACI HAREKATI",
+        "C": "FETİH HAREKATI",
+        "D": "MUHAÇ HAREKATI",
+        "E": "GÖNÜLLÜ HAREKATI"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Genel Tarih",
+      "difficulty": "Orta",
+      "question": "Japonya'da Meji Restorasyonunu başlatan kimdir?",
+      "options": {
+        "A": "MUTSUHİTO",
+        "B": "MİTARİZMO",
+        "C": "KIM IL SUNG",
+        "D": "TANAKA",
+        "E": "YAMAMOTO"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "topic": "Genel Tarih",
+      "difficulty": "Orta",
+      "question": "Çelik Paktı hangi ülkeler arasında imzalandı?",
+      "options": {
+        "A": "ALMANYA-İTALYA",
+        "B": "ALMANYA-FRANSA",
+        "C": "İTALYA-İNGİLTERE",
+        "D": "İTALYA-ALMANYA-JAPONYA",
+        "E": "ALMANYA-İNGİLTERE"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "topic": "Genel Tarih",
+      "difficulty": "Orta",
+      "question": "Kuzey Kıbrıs Türk Cumhuriyeti ile Güney Kıbrıs Rum Yönetimi'ni ayıran bölgenin adı nedir?",
+      "options": {
+        "A": "YEŞİL HAT",
+        "B": "MAVI HAT",
+        "C": "KIRMIZI HAT",
+        "D": "Beyaz HAT",
+        "E": "Altın Hat"
+      },
+      "correct_answer": "A"
+    },
+        {
+          "topic": "Genel Tarih",
+          "difficulty": "Orta",
+          "question": "Son Osmanlı Mebusan Meclisinde M. Kemal nereden milletvekili seçilmiştir?",
+          "options": {
+            "A": "ERZURUM",
+            "B": "SİVAS",
+            "C": "ANKARA",
+            "D": "İSTANBUL",
+            "E": "İZMİR"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "topic": "Genel Tarih",
+          "difficulty": "Orta",
+          "question": "Galip Hoca ve Reşadı Sani lakaplarıyla bilinen, İş Bankası'nın ilk müdürü kimdir?",
+          "options": {
+            "A": "İSmet İnönü",
+            "B": "Celal Bayar",
+            "C": "Adnan Menderes",
+            "D": "Fuat Köprülü",
+            "E": "Ali Fuat Cebesoy"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "topic": "Genel Tarih",
+          "difficulty": "Orta",
+          "question": "I. TBMM'nin imzaladığı ilk antlaşma nedir?",
+          "options": {
+            "A": "Gümrü",
+            "B": "Moskova",
+            "C": "Londra",
+            "D": "Mudanya",
+            "E": "Kars"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "topic": "Genel Tarih",
+          "difficulty": "Orta",
+          "question": "TBMM Hükümeti ilk elçiliğini nerede açmıştır?",
+          "options": {
+            "A": "MOSKOVA",
+            "B": "PARİS",
+            "C": "LONDRA",
+            "D": "NEW YORK",
+            "E": "BERLİN"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "topic": "Genel Tarih",
+          "difficulty": "Orta",
+          "question": "M. Kemal, 'Siz orada yalnızca düşmanı değil milletin makus talihini de yendiniz' sözünü hangi savaştan sonra söylemiştir?",
+          "options": {
+            "A": "KURTULUŞ SAVAŞI",
+            "B": "ÇANAKKALE SAVAŞI",
+            "C": "SACİDE SAVAŞI",
+            "D": "II. İNÖNÜ SAVAŞI",
+            "E": "MUDANYA"
+          },
+          "correct_answer": "D"
+        },
+        {
+          "topic": "Genel Tarih",
+          "difficulty": "Orta",
+          "question": "Rusya I. Dünya Savaşı'ndan hangi antlaşma ile çekilmiştir?",
+          "options": {
+            "A": "BREST LITOWSK",
+            "B": "BREST LITOWSK",
+            "C": "PARİS",
+            "D": "BİLGİNİ",
+            "E": "KARS"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "topic": "Genel Tarih",
+          "difficulty": "Orta",
+          "question": "Milli Hokand hükümetine Rusya'nın son vermesi ile Türklerin başlattığı hareketin adı nedir?",
+          "options": {
+            "A": "İSTANBUL",
+            "B": "BASMACI HAREKATI",
+            "C": "FETİH HAREKATI",
+            "D": "MUHAÇ HAREKATI",
+            "E": "GÖNÜLLÜ HAREKATI"
+          },
+          "correct_answer": "B"
+        },
+        {
+          "topic": "Genel Tarih",
+          "difficulty": "Orta",
+          "question": "Japonya'da Meji Restorasyonunu başlatan kimdir?",
+          "options": {
+            "A": "MUTSUHİTO",
+            "B": "MİTARİZMO",
+            "C": "KIM IL SUNG",
+            "D": "TANAKA",
+            "E": "YAMAMOTO"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "topic": "Genel Tarih",
+          "difficulty": "Orta",
+          "question": "Çelik Paktı hangi ülkeler arasında imzalandı?",
+          "options": {
+            "A": "ALMANYA-İTALYA",
+            "B": "ALMANYA-FRANSA",
+            "C": "İTALYA-İNGİLTERE",
+            "D": "İTALYA-ALMANYA-JAPONYA",
+            "E": "ALMANYA-İNGİLTERE"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "topic": "Genel Tarih",
+          "difficulty": "Orta",
+          "question": "Kuzey Kıbrıs Türk Cumhuriyeti ile Güney Kıbrıs Rum Yönetimi'ni ayıran bölgenin adı nedir?",
+          "options": {
+            "A": "YEŞİL HAT",
+            "B": "MAVI HAT",
+            "C": "KIRMIZI HAT",
+            "D": "Beyaz HAT",
+            "E": "Altın Hat"
+          },
+          "correct_answer": "A"
+        }
+  ]
+}
