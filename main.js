@@ -86,7 +86,7 @@ function getSoruFromArray() {
 
         <span class="${diff}">${sorular[soruNum].difficulty}</span>
         <div class="soru-con">
-        <span>${sorular[soruNum].question}</span>
+        <span class="text-soru">${sorular[soruNum].question}</span>
         </div>
             <div class="answers">
                 <div id="A" onclick="checkSoru(this.id)">A-) ${sorular[soruNum].options.A}</div>
